@@ -3,7 +3,7 @@ Python tkinter GUI Application
 A simple calculator application built using **Python’s Tkinter** library.  
 It supports basic arithmetic operations (`+`, `-`, `×`, `/`) and includes a clean, dark-themed graphical interface.
 
-![Calculator Preview](300efd77-7121-48d6-9fdc-f58f979c0705.png)
+![Calculator Preview](https://github.com/AKABharat/Python-Calculator/blob/main/calculator_akabharat.png)
 
 ---
 
